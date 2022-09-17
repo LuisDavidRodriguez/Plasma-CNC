@@ -10,3 +10,6 @@ I designed and made in SolidWorks a CNC machine, its heart was an arduino and th
 ![20200710_155607](https://user-images.githubusercontent.com/105079888/189724565-362773ba-fb7c-43c6-8c65-c19d7a2b4c4f.jpg)
 ![Captura](https://user-images.githubusercontent.com/105079888/189725027-983c7851-2eb5-49f0-b8e5-87f16ffb5ca9.PNG)
 ![plasma cut](https://user-images.githubusercontent.com/105079888/189725033-23d1ceff-3e9f-4943-b5ef-f7d9c9b114a4.PNG)
+
+![IMG_20220912_213658806](https://user-images.githubusercontent.com/105079888/190876844-e73e931a-bc95-4601-9ed2-5890660eed2e.jpg)
+![IMG_20220912_213704125](https://user-images.githubusercontent.com/105079888/190876847-5ae897ef-678a-4501-bd8d-e167d8f5477f.jpg)
