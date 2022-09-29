@@ -2,6 +2,7 @@
 ## CNC Plasma metal-cutting machine
 I designed and made in SolidWorks a CNC machine, its heart was an arduino and the CNC shield, with a plasma torch attached to its Z axis. It uses PAPs motors, drivers, StopLimit switches, and pieces made from 3D printers. I made it because I had to make another machine made 100% from metal, thereby I needed something that would allow me to cut with precision from my SolidWorks and Fusion360 designs. I was acquainted with PAP motors and electronics because in highschool I studied Mechatronics. I made a robotic arm as a final project.
 
+You can find the video here: [Youtube](https://youtu.be/3ACn0wyRS-g)
 
 ![Captura5](https://user-images.githubusercontent.com/105079888/192918271-0ad907a7-068b-4cec-a880-5913ca9ff549.PNG)
 
